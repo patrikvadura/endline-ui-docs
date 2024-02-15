@@ -1,0 +1,11 @@
+{
+  "index": "Introduction",
+  "another": "Another Page",
+  "advanced": "Advanced (A Folder)",
+  "contact": {
+    "title": "Více o Endline ↗",
+    "type": "page",
+    "href": "https://endline.patrikvadura.cz",
+    "newWindow": true
+  }
+}
